@@ -13,7 +13,7 @@
 
 The **Brain Tumor Classification System** is an AI-driven medical imaging tool designed to detect and classify brain tumors from MRI scans using deep learning. It leverages the **MobileNet** architecture to automatically distinguish between four tumor types with high precision, supporting neurologists, oncologists, and radiologists in making faster and more reliable diagnoses.
 
-> 🎬 Video Demo : **[Watch Video Demo](https://1drv.ms/v/c/47438efdb3ee2559/IQDpOt93IP4dQLvBiS0qZZRcAfrgs1ixCbQgwYIY4-jany8?e=JMRJNk)**
+> 🎬 Video Demo : **[Watch Video Here](https://1drv.ms/v/c/47438efdb3ee2559/IQDpOt93IP4dQLvBiS0qZZRcAfrgs1ixCbQgwYIY4-jany8?e=JMRJNk)**
 
 > 🔬 Colab Notebook : **[View Colab Notebook](https://colab.research.google.com/drive/1Bu1ZigCHqkvk4IWmleBegZMP_G3AYLyH?usp=sharing)**
 
